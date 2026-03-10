@@ -202,7 +202,7 @@ AgriIntel
 │   └── cotton_price.csv
 │
 ├── notebooks
-│   └── data_analysis.ipynb
+│   └── main.ipynb
 │
 ├── models
 │   └── crop_yield_model.pkl
