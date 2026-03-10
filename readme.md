@@ -293,4 +293,7 @@ GitHub
 LinkedIn
 [https://www.linkedin.com/in/devraj-choudhary-3889412bb/](https://www.linkedin.com/in/devraj-choudhary-3889412bb/)
 
+working Dashboard
+https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/
+
 
