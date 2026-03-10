@@ -42,31 +42,31 @@ Users can input environmental conditions and receive **real-time predictions of 
 # 🏗 System Architecture
 
 ```text
-Agricultural Datasets
+      Agricultural Datasets
 (Crop Production, Rainfall, Temperature, Cost)
             │
             ▼
 Data Cleaning & Preprocessing
-(Pandas, NumPy)
+    (Pandas, NumPy)
             │
             ▼
-Feature Engineering
+     Feature Engineering
 (Rain Efficiency, Interaction Features)
             │
             ▼
-Model Training
+     Model Training
 (Linear Regression, Random Forest)
             │
             ▼
-Model Evaluation
-(R², RMSE)
+     Model Evaluation
+       (R², RMSE)
             │
             ▼
-Prediction System
-(Streamlit Dashboard)
+    Prediction System
+   (Streamlit Dashboard)
             │
             ▼
-Farm Decision Support
+  Farm Decision Support
 ```
 
 This pipeline mirrors a **typical production-style machine learning workflow used in real data science projects.**
@@ -189,6 +189,8 @@ The dashboard acts as a **prototype decision support tool for agritech applicati
 
 # 📂 Project Structure
 
+
+
 ```
 AgriIntel
 │
@@ -205,9 +207,13 @@ AgriIntel
 ├── models
 │   └── crop_yield_model.pkl
 │
+├── agriintel_workflow.png
+│
 ├── app.py
 ├── requirements.txt
 └── README.md
+
+
 ```
 
 ---
