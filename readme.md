@@ -223,7 +223,7 @@ pip install -r requirements.txt
 ### Run the Streamlit dashboard
 
 ```
-streamlit run ./dasboard/app.py
+streamlit run app.py
 ```
 
 The application will launch locally in your browser.
