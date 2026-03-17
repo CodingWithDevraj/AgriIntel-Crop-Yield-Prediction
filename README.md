@@ -1,4 +1,4 @@
-# 🌾 AgriIntel — AI-Driven Crop Yield Prediction & Farm Decision Support System
+# AgriIntel — AI-Driven Crop Yield Prediction & Farm Decision Support System
 
 AgriIntel is an **end-to-end machine learning system** that predicts **cotton production using environmental and economic indicators** such as rainfall, temperature, and cultivation cost.
 
@@ -8,7 +8,7 @@ This project demonstrates how **data science and machine learning can support pr
 
 ---
 
-# 📌 Problem Statement
+# Problem Statement
 
 Agricultural productivity is influenced by several **dynamic environmental and economic factors**, including rainfall patterns, temperature fluctuations, and farming costs.
 
@@ -24,22 +24,22 @@ This project aims to build a **data-driven crop yield prediction system** that c
 
 ---
 
-# 🧠 Solution Overview
+# Solution Overview
 
 AgriIntel provides a **machine learning–based decision support system** that predicts cotton production by analyzing historical agricultural data.
 
 The solution consists of:
 
-1️⃣ **Data Integration** from multiple agricultural datasets
-2️⃣ **Feature Engineering** to capture environmental relationships
-3️⃣ **Machine Learning Model Training**
-4️⃣ **Prediction Interface via Streamlit Dashboard**
+1️. **Data Integration** from multiple agricultural datasets
+2️. **Feature Engineering** to capture environmental relationships
+3️. **Machine Learning Model Training**
+4️. **Prediction Interface via Streamlit Dashboard**
 
 Users can input environmental conditions and receive **real-time predictions of expected crop production**.
 
 ---
 
-# 🏗 System Architecture
+# System Architecture
 
 ```text
       Agricultural Datasets
@@ -73,7 +73,7 @@ This pipeline mirrors a **typical production-style machine learning workflow use
 
 ---
 
-# 📊 Datasets Used
+# Datasets Used
 
 The project integrates multiple datasets to capture agricultural conditions.
 
@@ -102,23 +102,23 @@ These datasets were **cleaned, aligned, and merged** to create a unified machine
 
 ---
 
-# ⚙️ Data Processing Pipeline
+# Data Processing Pipeline
 
 The data pipeline includes several stages:
 
-1️⃣ Data Cleaning
-2️⃣ Feature Engineering
-3️⃣ Dataset Integration
-4️⃣ Time Alignment Across Datasets
-5️⃣ Model Training
-6️⃣ Model Evaluation
-7️⃣ Dashboard Deployment
+1️. Data Cleaning
+2️. Feature Engineering
+3️. Dataset Integration
+4️. Time Alignment Across Datasets
+5️. Model Training
+6️. Model Evaluation
+7️. Dashboard Deployment
 
 This workflow ensures **data quality, model reliability, and usability of predictions**.
 
 ---
 
-# 🧠 Machine Learning Models
+# Machine Learning Models
 
 Two machine learning algorithms were trained and evaluated.
 
@@ -132,7 +132,7 @@ An ensemble learning method capable of modeling **non-linear relationships and c
 
 ---
 
-# 📈 Model Performance
+# Model Performance
 
 | Model             | R² Score | RMSE |
 | ----------------- | -------- | ---- |
@@ -143,7 +143,7 @@ The **Linear Regression model achieved the highest predictive accuracy** and was
 
 ---
 
-# 🤖 Prediction Logic
+# Prediction Logic
 
 The prediction system estimates cotton production using the following input features:
 
@@ -157,7 +157,7 @@ These features help the model **capture environmental relationships influencing 
 
 ---
 
-# 🖥 Interactive Dashboard
+# Interactive Dashboard
 
 An interactive **Streamlit web application** was built to demonstrate the prediction system.
 
@@ -174,7 +174,7 @@ The dashboard acts as a **prototype decision support tool for agritech applicati
 
 ---
 
-# 🛠 Technology Stack
+# Technology Stack
 
 | Category              | Tools               |
 | --------------------- | ------------------- |
@@ -187,9 +187,7 @@ The dashboard acts as a **prototype decision support tool for agritech applicati
 
 ---
 
-# 📂 Project Structure
-
-
+# Project Structure
 
 ```
 AgriIntel
@@ -205,20 +203,18 @@ AgriIntel
 │   └── main.ipynb
 │
 ├── models
-│   └── crop_yield_model.pkl
+│   │   └── crop_yield_model.pkl
 │
 ├── agriintel_workflow.png
 │
 ├── app.py
 ├── requirements.txt
 └── README.md
-
-
 ```
 
 ---
 
-# ▶️ Running the Project
+# Running the Project
 
 ### Install dependencies
 
@@ -236,7 +232,7 @@ The application will launch locally in your browser.
 
 ---
 
-# 📈 Skills Demonstrated
+# Skills Demonstrated
 
 This project highlights key **data science and machine learning competencies**:
 
@@ -250,7 +246,7 @@ This project highlights key **data science and machine learning competencies**:
 
 ---
 
-# 🔮 Future Improvements
+# Future Improvements
 
 Potential enhancements for the system include:
 
@@ -262,7 +258,7 @@ Potential enhancements for the system include:
 
 ---
 
-# 💡 Potential Applications
+# Potential Applications
 
 AgriIntel can support several real-world use cases:
 
@@ -274,7 +270,7 @@ AgriIntel can support several real-world use cases:
 
 ---
 
-# 👨‍💻 Author
+# Author
 
 **Devraj Choudhary**
 
@@ -293,7 +289,7 @@ GitHub
 LinkedIn
 [https://www.linkedin.com/in/devraj-choudhary-3889412bb/](https://www.linkedin.com/in/devraj-choudhary-3889412bb/)
 
-working Dashboard
-https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/
+Working Dashboard
+[https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/](https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/)
 
-
+---
