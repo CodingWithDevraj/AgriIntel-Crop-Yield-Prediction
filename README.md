@@ -108,7 +108,7 @@ These datasets were **cleaned, aligned, and merged** to create a unified machine
 
 The data pipeline includes several stages:
 
-1️⃣ Data Cleaning
+#1️⃣ Data Cleaning
 2️⃣ Feature Engineering
 3️⃣ Dataset Integration
 4️⃣ Time Alignment Across Datasets
