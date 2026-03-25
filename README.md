@@ -40,7 +40,7 @@ Users can input environmental conditions and receive **real-time predictions of 
 ---
 ## Working Dashboard
 
-https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/](https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/
+https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/
 
 # System Architecture
 
