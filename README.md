@@ -1,5 +1,3 @@
----
-
 # AgriIntel — AI-Driven Crop Yield Prediction & Farm Decision Support System
 
 AgriIntel is an **end-to-end machine learning system** that predicts **cotton production using environmental and economic indicators** such as rainfall, temperature, and cultivation cost.
@@ -40,6 +38,9 @@ The solution consists of:
 Users can input environmental conditions and receive **real-time predictions of expected crop production**.
 
 ---
+## Working Dashboard
+
+https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/](https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/
 
 # System Architecture
 
@@ -291,8 +292,4 @@ GitHub
 LinkedIn
 [https://www.linkedin.com/in/devraj-choudhary-3889412bb/](https://www.linkedin.com/in/devraj-choudhary-3889412bb/)
 
-Working Dashboard
-[https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/](https://agriintel-crop-yield-prediction-ccthxnwd3hszspmwpx3wtp.streamlit.app/)
-
----
 
